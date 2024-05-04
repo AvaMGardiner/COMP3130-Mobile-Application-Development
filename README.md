@@ -5,4 +5,6 @@ In this unit, I covered the design and development of mobile applications from b
 **Technology Used**
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- 
+- [React-Native CLI](https://reactnative.dev/docs/environment-setup?guide=native)
+- [Expo CLI](https://reactnative.dev/docs/environment-setup?guide=quickstart)
+  
