@@ -20,4 +20,4 @@ In my Major Work Deliverable-I, which focused on Mobile Application Design, I wa
 
 - **Major Work Deliverable-II: Design and Development of a Mobile Application**
 
-In my Major Work Deliverable-II, I designed and developed a mobile app using Expo/React-Native. The app, centered around recording charity information, allowed users to manage their charity collections. The project was open-ended, encouraging exploration beyond classroom teachings. I had the freedom to adjust the app’s structure and content as needed. This project evaluated my skills in design, implementation, testing, and deployment of a mobile application.
+In my Major Work Deliverable-II, I designed and developed a mobile app using Expo/React-Native. The app, centered around recording charity information, allows users to manage their charity collections. The project was open-ended, encouraging exploration beyond classroom teachings. I had the freedom to adjust the app’s structure and content as needed. This project evaluated my skills in design, implementation, testing, and deployment of a mobile application.
