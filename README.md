@@ -9,6 +9,8 @@ In this unit, I covered the design and development of mobile applications from b
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [React-Native CLI](https://reactnative.dev/docs/environment-setup?guide=native)
 - [Expo CLI](https://reactnative.dev/docs/environment-setup?guide=quickstart)
+
+------
   
 **Mobile Application Development**
 
@@ -18,4 +20,4 @@ In my Major Work Deliverable-I, which focused on Mobile Application Design, I wa
 
 - **Major Work Deliverable-II: Design and Development of a Mobile Application**
 
-In my Major Work Deliverable-II, which focused on the Design and Development of a Mobile Application, I was assigned the task of creating a mobile app using Expo/React-Native for a platform of my choosing. The app's central theme was to record information about different charities. Consequently, I had to design an app that enabled users to browse their collections of charities. Once logged in, users should have the capability to add, view, remove, and modify all the content they've contributed, including the collections and the charities within them. This task was open-ended, and I was motivated to discover new ideas beyond what was taught in lectures and workshops. The strategy for implementation was entirely in my hands. I was given the leeway to add or subtract a few screens as needed, with the optimal number of screens being sufficient to display all the necessary information. I was also granted the liberty to alter the content of the screens. The arrangement of my content was merely a proposed set of possible configurations based on the Mobile Application Development - Instructions (Assignment Specifications). This was a Major Work project aimed at evaluating students' abilities in design, implementation, testing, and deployment of a Mobile Application.
+In my Major Work Deliverable-II, I designed and developed a mobile app using Expo/React-Native. The app, centered around recording charity information, allowed users to manage their charity collections. The project was open-ended, encouraging exploration beyond classroom teachings. I had the freedom to adjust the app’s structure and content as needed. This project evaluated my skills in design, implementation, testing, and deployment of a mobile application.
