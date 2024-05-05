@@ -1,7 +1,9 @@
 # Major Work Design Assessment
 
 **COMP3130 2023 Mobile Application Development**
+
 **Major Work Deliverable-1 (15%) Mobile Application Design**
+
 **Due date:** Sunday, March 26, Week-5, 11.55 pm (Marked out of 100)
 
 **The App:**
