@@ -74,4 +74,5 @@
 |                                              | 2 days late                                                                                        | -10      |
 |                                              | 1 day late                                                                                         | -5      |
 |                                              | **Submitted on time**                                                                                  | **0**      |
+|||
 | **TOTAL**                                       |                                                                                                  | **100**   |
