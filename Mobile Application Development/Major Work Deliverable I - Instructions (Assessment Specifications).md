@@ -1,6 +1,6 @@
 # Major Work Design Assessment
 
-## COMP3130 2022 Mobile Application Development
+## COMP3130 2023 Mobile Application Development
 
 ### Major Work Deliverable-1 (15%) Mobile Application Design
 
